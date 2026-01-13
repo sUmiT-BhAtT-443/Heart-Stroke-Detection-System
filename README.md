@@ -68,7 +68,6 @@ Instead of only relying on accuracy, the model focuses on **recall and safety**,
   - Lifestyle patterns affecting stroke risk
 
 ---
-
 ## 🖼️ Application Screenshots
 
 ### 📌 Dashboard View 1  
@@ -88,7 +87,7 @@ Another input scenario showing different health parameter selections.
 ### 📌 Main Dashboard View  
 Final prediction output displaying stroke risk with probability score.
 
-<img src="Main_Dashboard_View .png" width="800"/>
+<img src="Main_Dashboard_View.png" width="800"/>
 
 ---
 

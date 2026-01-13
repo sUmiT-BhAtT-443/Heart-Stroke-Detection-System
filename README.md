@@ -78,9 +78,8 @@ Instead of only relying on accuracy, the model focuses on **recall and safety**,
 ![Dashboard View 2](Dashboard_view2.png)
 
 ### 🔹 Main Dashboard View
-![Main Dashboard View](Main_Dashboard_View.png)
+![Main Dashboard View](main_Dashboard_view.png)
 
-> *(Make sure these image files are uploaded to the repository root with the same names.)*
 
 ---
 

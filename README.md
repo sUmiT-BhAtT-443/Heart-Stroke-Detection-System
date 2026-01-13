@@ -71,23 +71,23 @@ Instead of only relying on accuracy, the model focuses on **recall and safety**,
 ## 🖼️ Application Screenshots
 
 ### 📌 Main Dashboard View  
-Final prediction output displaying stroke risk with probability score.
+Initial user input interface where all health details are entered manually.
 
-<img src="main Dashboard view .png" width="600" height='350'/>
+<img src="main Dashboard view .png" width="600"/>
 
 ---
 
 ### 📌 Dashboard View 1  
-Initial user input interface where all health details are entered manually.
+Final prediction output displaying stroke risk with probability score.
 
-<img src="Dashboard view1.png" width="600" height="350"/>
+<img src="Dashboard view1.png" width="600" />
 
 ---
 
 ### 📌 Dashboard View 2  
 Another input scenario showing different health parameter selections.
 
-<img src="Dashboard view2.png" width="600" height='350'/>
+<img src="Dashboard view2.png" width="600"/>
 
 ---
 

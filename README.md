@@ -88,7 +88,7 @@ Another input scenario showing different health parameter selections.
 ### 📌 Main Dashboard View  
 Final prediction output displaying stroke risk with probability score.
 
-<img src="Main_Dashboard_View.png" width="800"/>
+<img src="Main_Dashboard_View .png" width="800"/>
 
 ---
 
